@@ -1,7 +1,9 @@
 flowchartdef.sty
 This file defines the styles for flowchart elements using TikZ.
+
 Author: [Haider Al-Saidi]
 Date: [2024-06]
+
 Usage: Include this file in your LaTeX document with \usepackage{flowchartdef}
 Example usage:
   \documentclass{article}
